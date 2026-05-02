@@ -1,0 +1,6 @@
+flask
+requests
+python-dotenv
+gunicorn
+Flask-Limiter
+python-json-logger
